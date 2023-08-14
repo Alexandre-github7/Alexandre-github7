@@ -1,4 +1,4 @@
-## Olá me chamo Alexandre, futuro desenvolvedor frontend!
+## Olá me chamo Alexandre, estudante de ADS!
 
 <div>
   <a href="https://github.com/BeatrizTavaresL">
@@ -20,4 +20,8 @@
   <a href = "mailto:alexandre.cavalcante.network@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexandre-cavalcante-50106b283" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+![ezgif com-resize (1)](https://github.com/Alexandre-github7/Alexandre-github7/assets/141890012/87dfc05d-bb5c-434a-97f5-3c64aa1985fe)
+
 </div>
+
+
