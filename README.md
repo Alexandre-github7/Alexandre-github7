@@ -13,6 +13,6 @@
   <a href="https://www.linkedin.com/in/alexandre-cavalcante-50106b283" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br/>
-<img align="left" alt="Ale-gif" src="https://cdn.discordapp.com/attachments/1140019092590432328/1140693859525992499/ezgif.com-resize_1.gif">
+<img align="left" alt="Ale-gif" src="https://cdn.discordapp.com/attachments/1140019092590432328/1146126945722040320/ezgif.com-resize_2.gif">
 
 
